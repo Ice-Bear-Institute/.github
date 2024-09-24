@@ -1,7 +1,7 @@
 {
     "name": "Echo Context Details",
     "description": "A GitHub Action to echo out context details of the workflow run.",
-    "iconName": "ice-bear",
+    "iconName": "ice-bear-institute",
     "categories": ["Utility"],
     "author": {
       "name": "BCHarker-OCT",
