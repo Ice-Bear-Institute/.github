@@ -1,0 +1,14 @@
+{
+    "name": "Echo Context Details",
+    "description": "A GitHub Action to echo out context details of the workflow run.",
+    "iconName": "ice-bear",
+    "categories": ["Utility"],
+    "author": {
+      "name": "BCHarker-OCT",
+    },
+    "branding": {
+      "color": "blue",
+      "label": "ice-bear-institute-logo"
+    }
+  }
+  
